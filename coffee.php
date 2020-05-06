@@ -25,13 +25,6 @@ require("templates/header.php");
 			</p>
 		</div>
 	</div>
-
-	<div class="text-dark mt-5">
-		<h2 class="my-text-color pb-3">6 Different types of Coffee Drinks</h2>
-		<?php 
-			require("templates/varieties.php");
-		?>
-	</div>
 </main>
 
 
